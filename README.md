@@ -14,5 +14,5 @@ This guide walks you through creating a bot on Valour.gg, connecting it with the
 ### Step 1. [Logging in as the bot](Guides/1.Login.md)
 ### Step 2. [Joining a planet](Guides/2.JoinPlanet.md)
 ### Step 3. [Connecting and Sending a Message to a Planet](Guides/3.ConnectingAndSending.md)
-### Step 4. [Reveiving Messages and Commands](4.MessagesAndCommands.md)
+### Step 4. [Reveiving Messages and Commands](Guides/4.MessagesAndCommands.md)
 

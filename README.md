@@ -19,13 +19,13 @@ This guide walks you through creating a bot on Valour.gg, connecting it with the
 
 ## 2. Making the bot
 
-### Step 1. [Logging in as the bot](Guides/1.Login.md) — Setting up the project and connecting to Valour
-### Step 2. [Joining a planet](Guides/2.JoinPlanet.md) — Adding your bot to a planet
-### Step 3. [Connecting and Sending a Message to a Planet](Guides/3.ConnectingAndSending.md) — Opening a real-time connection and sending your first message
-### Step 4. [Receiving Messages and Commands](Guides/4.MessagesAndCommands.md) — Listening for messages and creating a basic command
-### Step 5. [Command Arguments](Guides/5.CommandArguments.md) — Parsing arguments from commands
-### Step 6. [Member Info](Guides/6.MemberInfo.md) — Fetching info about the message author
-### Step 7. [Permission Checking](Guides/7.PermissionChecking.md) — Restricting commands to members with the right permissions
+### Step 1. [Logging in as the bot](Guides/1.Login.md) - Setting up the project and connecting to Valour
+### Step 2. [Joining a planet](Guides/2.JoinPlanet.md) - Adding your bot to a planet
+### Step 3. [Connecting and Sending a Message to a Planet](Guides/3.ConnectingAndSending.md) - Opening a real-time connection and sending your first message
+### Step 4. [Receiving Messages and Commands](Guides/4.MessagesAndCommands.md) - Listening for messages and creating a basic command
+### Step 5. [Command Arguments](Guides/5.CommandArguments.md) - Parsing arguments from commands
+### Step 6. [Member Info](Guides/6.MemberInfo.md) - Fetching info about the message author
+### Step 7. [Permission Checking](Guides/7.PermissionChecking.md) - Restricting commands to members with the right permissions
 
 ---
 
